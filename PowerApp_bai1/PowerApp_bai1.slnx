@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PowerAppTests/PowerAppTests.csproj" />
+  <Project Path="PowerApp_bai1/PowerApp_bai1.csproj" />
+</Solution>

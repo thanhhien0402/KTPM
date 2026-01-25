@@ -1,0 +1,11 @@
+D:\Kì 2\KTPM\RectangleApp_bai4\RectangleApp_bai4\bin\Debug\net8.0\RectangleApp_bai4.deps.json
+D:\Kì 2\KTPM\RectangleApp_bai4\RectangleApp_bai4\bin\Debug\net8.0\RectangleApp_bai4.dll
+D:\Kì 2\KTPM\RectangleApp_bai4\RectangleApp_bai4\bin\Debug\net8.0\RectangleApp_bai4.pdb
+D:\Kì 2\KTPM\RectangleApp_bai4\RectangleApp_bai4\obj\Debug\net8.0\RectangleApp_bai4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kì 2\KTPM\RectangleApp_bai4\RectangleApp_bai4\obj\Debug\net8.0\RectangleApp_bai4.AssemblyInfoInputs.cache
+D:\Kì 2\KTPM\RectangleApp_bai4\RectangleApp_bai4\obj\Debug\net8.0\RectangleApp_bai4.AssemblyInfo.cs
+D:\Kì 2\KTPM\RectangleApp_bai4\RectangleApp_bai4\obj\Debug\net8.0\RectangleApp_bai4.csproj.CoreCompileInputs.cache
+D:\Kì 2\KTPM\RectangleApp_bai4\RectangleApp_bai4\obj\Debug\net8.0\RectangleApp_bai4.dll
+D:\Kì 2\KTPM\RectangleApp_bai4\RectangleApp_bai4\obj\Debug\net8.0\refint\RectangleApp_bai4.dll
+D:\Kì 2\KTPM\RectangleApp_bai4\RectangleApp_bai4\obj\Debug\net8.0\RectangleApp_bai4.pdb
+D:\Kì 2\KTPM\RectangleApp_bai4\RectangleApp_bai4\obj\Debug\net8.0\ref\RectangleApp_bai4.dll

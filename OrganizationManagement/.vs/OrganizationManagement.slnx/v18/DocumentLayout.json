@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\K\u00EC 2\\KTPM\\OrganizationManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7EF1CA-979B-4F6C-9722-4D02A4AFDF32}|OrganizationManagement\\OrganizationManagement.csproj|d:\\k\u00EC 2\\ktpm\\organizationmanagement\\organizationmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7EF1CA-979B-4F6C-9722-4D02A4AFDF32}|OrganizationManagement\\OrganizationManagement.csproj|solutionrelative:organizationmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7EF1CA-979B-4F6C-9722-4D02A4AFDF32}|OrganizationManagement\\OrganizationManagement.csproj|d:\\k\u00EC 2\\ktpm\\organizationmanagement\\organizationmanagement\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7EF1CA-979B-4F6C-9722-4D02A4AFDF32}|OrganizationManagement\\OrganizationManagement.csproj|solutionrelative:organizationmanagement\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7EF1CA-979B-4F6C-9722-4D02A4AFDF32}|OrganizationManagement\\OrganizationManagement.csproj|d:\\k\u00EC 2\\ktpm\\organizationmanagement\\organizationmanagement\\frmdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D7EF1CA-979B-4F6C-9722-4D02A4AFDF32}|OrganizationManagement\\OrganizationManagement.csproj|solutionrelative:organizationmanagement\\frmdirector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7EF1CA-979B-4F6C-9722-4D02A4AFDF32}|OrganizationManagement\\OrganizationManagement.csproj|d:\\k\u00EC 2\\ktpm\\organizationmanagement\\organizationmanagement\\organizationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7EF1CA-979B-4F6C-9722-4D02A4AFDF32}|OrganizationManagement\\OrganizationManagement.csproj|solutionrelative:organizationmanagement\\organizationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7EF1CA-979B-4F6C-9722-4D02A4AFDF32}|OrganizationManagement\\OrganizationManagement.csproj|d:\\k\u00EC 2\\ktpm\\organizationmanagement\\organizationmanagement\\frmorganization.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7EF1CA-979B-4F6C-9722-4D02A4AFDF32}|OrganizationManagement\\OrganizationManagement.csproj|solutionrelative:organizationmanagement\\frmorganization.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D7EF1CA-979B-4F6C-9722-4D02A4AFDF32}|OrganizationManagement\\OrganizationManagement.csproj|d:\\k\u00EC 2\\ktpm\\organizationmanagement\\organizationmanagement\\frmdirector.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D7EF1CA-979B-4F6C-9722-4D02A4AFDF32}|OrganizationManagement\\OrganizationManagement.csproj|solutionrelative:organizationmanagement\\frmdirector.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\K\u00EC 2\\KTPM\\OrganizationManagement\\OrganizationManagement\\Program.cs",
+              "RelativeDocumentMoniker": "OrganizationManagement\\Program.cs",
+              "ToolTip": "D:\\K\u00EC 2\\KTPM\\OrganizationManagement\\OrganizationManagement\\Program.cs",
+              "RelativeToolTip": "OrganizationManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T17:34:40.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "D:\\K\u00EC 2\\KTPM\\OrganizationManagement\\OrganizationManagement\\DBHelper.cs",
+              "RelativeDocumentMoniker": "OrganizationManagement\\DBHelper.cs",
+              "ToolTip": "D:\\K\u00EC 2\\KTPM\\OrganizationManagement\\OrganizationManagement\\DBHelper.cs",
+              "RelativeToolTip": "OrganizationManagement\\DBHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T17:33:53.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmDirector.cs [Design]",
+              "DocumentMoniker": "D:\\K\u00EC 2\\KTPM\\OrganizationManagement\\OrganizationManagement\\FrmDirector.cs",
+              "RelativeDocumentMoniker": "OrganizationManagement\\FrmDirector.cs",
+              "ToolTip": "D:\\K\u00EC 2\\KTPM\\OrganizationManagement\\OrganizationManagement\\FrmDirector.cs [Design]",
+              "RelativeToolTip": "OrganizationManagement\\FrmDirector.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T17:29:36.769Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrganizationValidator.cs",
+              "DocumentMoniker": "D:\\K\u00EC 2\\KTPM\\OrganizationManagement\\OrganizationManagement\\OrganizationValidator.cs",
+              "RelativeDocumentMoniker": "OrganizationManagement\\OrganizationValidator.cs",
+              "ToolTip": "D:\\K\u00EC 2\\KTPM\\OrganizationManagement\\OrganizationManagement\\OrganizationValidator.cs",
+              "RelativeToolTip": "OrganizationManagement\\OrganizationValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T17:28:41.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmDirector.Designer.cs",
+              "DocumentMoniker": "D:\\K\u00EC 2\\KTPM\\OrganizationManagement\\OrganizationManagement\\FrmDirector.Designer.cs",
+              "RelativeDocumentMoniker": "OrganizationManagement\\FrmDirector.Designer.cs",
+              "ToolTip": "D:\\K\u00EC 2\\KTPM\\OrganizationManagement\\OrganizationManagement\\FrmDirector.Designer.cs",
+              "RelativeToolTip": "OrganizationManagement\\FrmDirector.Designer.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T17:26:28.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmOrganization.Designer.cs",
+              "DocumentMoniker": "D:\\K\u00EC 2\\KTPM\\OrganizationManagement\\OrganizationManagement\\FrmOrganization.Designer.cs",
+              "RelativeDocumentMoniker": "OrganizationManagement\\FrmOrganization.Designer.cs",
+              "ToolTip": "D:\\K\u00EC 2\\KTPM\\OrganizationManagement\\OrganizationManagement\\FrmOrganization.Designer.cs",
+              "RelativeToolTip": "OrganizationManagement\\FrmOrganization.Designer.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAAFwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T17:06:57.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
