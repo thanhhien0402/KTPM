@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RadixApp_bai3/1.0.0": {
+        "runtime": {
+          "RadixApp_bai3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RadixApp_bai3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

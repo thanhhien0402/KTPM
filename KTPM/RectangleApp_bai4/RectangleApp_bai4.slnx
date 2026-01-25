@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="RectangleAppTests/RectangleAppTests.csproj" />
+  <Project Path="RectangleApp_bai4/RectangleApp_bai4.csproj" />
+</Solution>

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\K\u00EC 2\\KTPM\\RectangleApp_bai4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DA9E44F-7CD9-4CCA-913A-D3CAE995E54B}|RectangleAppTests\\RectangleAppTests.csproj|d:\\k\u00EC 2\\ktpm\\rectangleapp_bai4\\rectangleapptests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DA9E44F-7CD9-4CCA-913A-D3CAE995E54B}|RectangleAppTests\\RectangleAppTests.csproj|solutionrelative:rectangleapptests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AD23EE-52F0-425F-A8B3-446E8FA81DB3}|RectangleApp_bai4\\RectangleApp_bai4.csproj|d:\\k\u00EC 2\\ktpm\\rectangleapp_bai4\\rectangleapp_bai4\\hinhchunhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AD23EE-52F0-425F-A8B3-446E8FA81DB3}|RectangleApp_bai4\\RectangleApp_bai4.csproj|solutionrelative:rectangleapp_bai4\\hinhchunhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AD23EE-52F0-425F-A8B3-446E8FA81DB3}|RectangleApp_bai4\\RectangleApp_bai4.csproj|d:\\k\u00EC 2\\ktpm\\rectangleapp_bai4\\rectangleapp_bai4\\diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AD23EE-52F0-425F-A8B3-446E8FA81DB3}|RectangleApp_bai4\\RectangleApp_bai4.csproj|solutionrelative:rectangleapp_bai4\\diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82AD23EE-52F0-425F-A8B3-446E8FA81DB3}|RectangleApp_bai4\\RectangleApp_bai4.csproj|d:\\k\u00EC 2\\ktpm\\rectangleapp_bai4\\rectangleapp_bai4\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82AD23EE-52F0-425F-A8B3-446E8FA81DB3}|RectangleApp_bai4\\RectangleApp_bai4.csproj|solutionrelative:rectangleapp_bai4\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "D:\\K\u00EC 2\\KTPM\\RectangleApp_bai4\\RectangleAppTests\\Test1.cs",
+              "RelativeDocumentMoniker": "RectangleAppTests\\Test1.cs",
+              "ToolTip": "D:\\K\u00EC 2\\KTPM\\RectangleApp_bai4\\RectangleAppTests\\Test1.cs",
+              "RelativeToolTip": "RectangleAppTests\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T03:12:40.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HinhChuNhat.cs",
+              "DocumentMoniker": "D:\\K\u00EC 2\\KTPM\\RectangleApp_bai4\\RectangleApp_bai4\\HinhChuNhat.cs",
+              "RelativeDocumentMoniker": "RectangleApp_bai4\\HinhChuNhat.cs",
+              "ToolTip": "D:\\K\u00EC 2\\KTPM\\RectangleApp_bai4\\RectangleApp_bai4\\HinhChuNhat.cs",
+              "RelativeToolTip": "RectangleApp_bai4\\HinhChuNhat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T03:11:33.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Diem.cs",
+              "DocumentMoniker": "D:\\K\u00EC 2\\KTPM\\RectangleApp_bai4\\RectangleApp_bai4\\Diem.cs",
+              "RelativeDocumentMoniker": "RectangleApp_bai4\\Diem.cs",
+              "ToolTip": "D:\\K\u00EC 2\\KTPM\\RectangleApp_bai4\\RectangleApp_bai4\\Diem.cs",
+              "RelativeToolTip": "RectangleApp_bai4\\Diem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T03:10:53.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\K\u00EC 2\\KTPM\\RectangleApp_bai4\\RectangleApp_bai4\\Class1.cs",
+              "RelativeDocumentMoniker": "RectangleApp_bai4\\Class1.cs",
+              "ToolTip": "D:\\K\u00EC 2\\KTPM\\RectangleApp_bai4\\RectangleApp_bai4\\Class1.cs",
+              "RelativeToolTip": "RectangleApp_bai4\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T03:10:10.705Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

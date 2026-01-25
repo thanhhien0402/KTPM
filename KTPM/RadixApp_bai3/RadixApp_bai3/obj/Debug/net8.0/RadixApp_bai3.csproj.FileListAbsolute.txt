@@ -1,0 +1,11 @@
+D:\Kì 2\KTPM\RadixApp_bai3\RadixApp_bai3\bin\Debug\net8.0\RadixApp_bai3.deps.json
+D:\Kì 2\KTPM\RadixApp_bai3\RadixApp_bai3\bin\Debug\net8.0\RadixApp_bai3.dll
+D:\Kì 2\KTPM\RadixApp_bai3\RadixApp_bai3\bin\Debug\net8.0\RadixApp_bai3.pdb
+D:\Kì 2\KTPM\RadixApp_bai3\RadixApp_bai3\obj\Debug\net8.0\RadixApp_bai3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kì 2\KTPM\RadixApp_bai3\RadixApp_bai3\obj\Debug\net8.0\RadixApp_bai3.AssemblyInfoInputs.cache
+D:\Kì 2\KTPM\RadixApp_bai3\RadixApp_bai3\obj\Debug\net8.0\RadixApp_bai3.AssemblyInfo.cs
+D:\Kì 2\KTPM\RadixApp_bai3\RadixApp_bai3\obj\Debug\net8.0\RadixApp_bai3.csproj.CoreCompileInputs.cache
+D:\Kì 2\KTPM\RadixApp_bai3\RadixApp_bai3\obj\Debug\net8.0\RadixApp_bai3.dll
+D:\Kì 2\KTPM\RadixApp_bai3\RadixApp_bai3\obj\Debug\net8.0\refint\RadixApp_bai3.dll
+D:\Kì 2\KTPM\RadixApp_bai3\RadixApp_bai3\obj\Debug\net8.0\RadixApp_bai3.pdb
+D:\Kì 2\KTPM\RadixApp_bai3\RadixApp_bai3\obj\Debug\net8.0\ref\RadixApp_bai3.dll

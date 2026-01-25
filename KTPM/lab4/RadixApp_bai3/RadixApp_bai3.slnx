@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="RadixAppTests/RadixAppTests.csproj" />
+  <Project Path="RadixApp_bai3/RadixApp_bai3.csproj" />
+</Solution>
