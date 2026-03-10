@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Smoke Suite">
+    <test name="Run Smoke Group">
+        <groups>
+            <run>
+                <include name="smoke"/>
+            </run>
+        </groups>
+
+        <classes>
+            <class name="bai2.LoginTest"/>
+            <class name="bai2.CartTest"/>
+            <class name="bai2.CheckoutTest"/>
+        </classes>
+    </test>
+</suite>
